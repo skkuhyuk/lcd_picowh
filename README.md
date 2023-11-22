@@ -29,3 +29,7 @@ SDK_PATH를 설정하는 데 있어서서 export를 하기 직전에 pico-sdk를
 LCD화면 하얀색으로 clear한 후에 숫자 있는 부분만 bit를 찍어도 될것 같다. 아니면 숫자를 더 크게 bitmap으로 만들어서 display하면 될 듯 싶다. 
 
 3-2 string을 LCD에 나타냄. font최대 크기 24, 더 큰 font를 더 찾아볼 예정 
+
+
+
+->Pico-LCD-2.py로 해결.
